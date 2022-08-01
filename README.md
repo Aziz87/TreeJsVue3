@@ -1,3 +1,7 @@
+# For start
+
+please copy /models/Draco1024webp folder to project dirrectory
+
 # cossack-viewer
 
 This template should help get you started developing with Vue 3 in Vite.
