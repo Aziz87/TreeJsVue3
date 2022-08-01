@@ -1,0 +1,680 @@
+{
+  "COSSACK": {
+    "ACCESSORIES-LEFT_EAR-EARRING": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-NECK-CROSS": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-NECK-PENDANT": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-OVER_TOP-BURKA": [
+      "1-15.glb",
+      "2-30.glb",
+      "3-60.glb",
+      "4-90.glb"
+    ],
+    "ACCESSORIES-RIGHT_HAND-WHIP": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "BOOSTER-ITEMS-UHA": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "DRESS-DOWN-DOWN": [
+      "1-25.glb",
+      "2-50.glb",
+      "3-100.glb",
+      "4-150.glb"
+    ],
+    "DRESS-HEADDRESS-HAT": [
+      "1-20.glb",
+      "2-40.glb",
+      "3-80.glb",
+      "4-120.glb"
+    ],
+    "DRESS-SHOES-BOOTS": [
+      "1-35.glb",
+      "2-70.glb",
+      "3-140.glb",
+      "4-210.glb"
+    ],
+    "DRESS-TOP-TOP": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-160.glb",
+      "4-240.glb"
+    ],
+    "PERSONAGE-BODY-COSSACK": [
+      "1-100.glb",
+      "2-150.glb",
+      "3-200.glb",
+      "4-300.glb"
+    ],
+    "SPUTNIK-SPUTNIK-HORSE": [
+      "1-150.glb",
+      "2-250.glb",
+      "3-400.glb",
+      "4-500.glb"
+    ],
+    "STARTER_DRESS-DOWN-DOWN": [
+      "1-25.glb",
+      "2-50.glb",
+      "3-100.glb",
+      "4-150.glb"
+    ],
+    "STARTER_DRESS-SHOES-BOOTS": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-TOP-TOP": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "WEAPON-LEFT_HAND-CURVED_DAGGER": [
+      "1-30.glb",
+      "2-60.glb",
+      "3-90.glb",
+      "4-150.glb"
+    ],
+    "WEAPON-LEFT_HAND-STRAIGHT_DAGGAR": [
+      "1-25.glb",
+      "2-50.glb",
+      "3-75.glb",
+      "4-125.glb"
+    ],
+    "WEAPON-RIGHT_HAND-CHECKER": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-120.glb",
+      "4-200.glb"
+    ],
+    "WEAPON-RIGHT_HAND-PIKE": [
+      "1-60.glb",
+      "2-120.glb",
+      "3-180.glb",
+      "4-300.glb"
+    ],
+    "WEAPON-RIGHT_HAND-SABER": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-120.glb",
+      "4-200.glb"
+    ]
+  },
+  "JANISSARY": {
+    "ACCESSORIES-BELT-HIKING_BAG": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "ACCESSORIES-FOREARM-BRACERS": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-LEFT_RING-RING": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-OVER_TOP-STRAP": [
+      "1-30.glb",
+      "2-60.glb",
+      "3-120.glb",
+      "4-180.glb"
+    ],
+    "BOOSTER-BOOSTER-CEZVE": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "DRESS-DOWN-PANTS": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-160.glb",
+      "4-240.glb"
+    ],
+    "DRESS-HEADDRESS-HAT": [
+      "1-30.glb",
+      "2-60.glb",
+      "3-120.glb",
+      "4-180.glb"
+    ],
+    "DRESS-SHOES-BOOTS": [
+      "1-60.glb",
+      "2-120.glb",
+      "3-240.glb",
+      "4-360.glb"
+    ],
+    "DRESS-TOP-CAMISOLE": [
+      "1-50.glb",
+      "2-100.glb",
+      "3-200.glb",
+      "4-300.glb"
+    ],
+    "PERSONAGE-BODY-JANISSARY": [
+      "1-100.glb",
+      "2-150.glb",
+      "3-200.glb",
+      "4-300.glb"
+    ],
+    "SPUTNIK-SPUTNIK-FALCON": [
+      "1-65.glb",
+      "2-110.glb",
+      "3-175.glb",
+      "4-220.glb"
+    ],
+    "STARTER_DRESS-DOWN-PANTS": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-SHOES-SHOES": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-TOP-SHIRT": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "WEAPON-RIGHT_HAND-MACE": [
+      "1-65.glb",
+      "2-130.glb",
+      "3-195.glb",
+      "4-325.glb"
+    ],
+    "WEAPON_RIGHT_HAND-YATAGHAN": [
+      "1-45.glb",
+      "2-90.glb",
+      "3-135.glb",
+      "4-180.glb"
+    ],
+    "WEAPON_RIGHT_HAND_DAGGER": [
+      "1-35.glb",
+      "2-70.glb",
+      "3-105.glb",
+      "4-140.glb"
+    ],
+    "WEAPON_RIGHT_HAND_SABER": [
+      "1-50.glb",
+      "2-100.glb",
+      "3-150.glb",
+      "4-250.glb"
+    ]
+  },
+  "MURSI": {
+    "ACCESSORIES-BELT-HEAD": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "ACCESSORIES-NECK-NECKLACE": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "BOOSTER-BOOSTER-COBRA_VENOM": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "DRESS-DOWN-SKIRT": [
+      "1-20.glb",
+      "2-40.glb",
+      "3-80.glb",
+      "4-120.glb"
+    ],
+    "DRESS-HEADDRESS-CAP": [
+      "1-15.glb",
+      "2-30.glb",
+      "3-60.glb",
+      "4-90.glb"
+    ],
+    "DRESS-SHOES-BRACELETS": [
+      "1-35.glb",
+      "2-70.glb",
+      "3-140.glb",
+      "4-210.glb"
+    ],
+    "DRESS-TOP-CAPE": [
+      "1-30.glb",
+      "2-60.glb",
+      "3-120.glb",
+      "4-180.glb"
+    ],
+    "PERSONAGE-BODY-MURSI": [
+      "100.glb",
+      "150.glb",
+      "200.glb",
+      "300.glb"
+    ],
+    "SPUTNIK-SPUTNIK-HYENA": [
+      "1-180.glb",
+      "2-300.glb",
+      "3-480.glb",
+      "4-600.glb"
+    ],
+    "STARTER_DRESS-DOWN-SKIRT": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "WEAPON-LEFT_HAND-CUDGEL": [
+      "1-20.glb",
+      "2-40.glb",
+      "3-60.glb",
+      "4-100.glb"
+    ],
+    "WEAPON-LEFT_HAND-SICKLE": [
+      "1-30.glb",
+      "2-60.glb",
+      "3-90.glb",
+      "4-150.glb"
+    ],
+    "WEAPON-RIGHT_HAND-SPEAR": [
+      "1-50.glb",
+      "2-100.glb",
+      "3-150.glb",
+      "4-250.glb"
+    ],
+    "WEAPON-RIGHT_HAND-STAFF": [
+      "1-25.glb",
+      "2-50.glb",
+      "3-75.glb",
+      "4-125.glb"
+    ],
+    "WEAPON_LEFT_HAND_FANG": [
+      "1-25.glb",
+      "2-50.glb",
+      "3-75.glb",
+      "4-125.glb"
+    ]
+  },
+  "PIRATE": {
+    "ACCESSORIES-HAIR-BANDANA": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-LEFT_EYE-PATCH": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "ACCESSORIES-OVER_TOP-BUG": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "BOOSTER-BOOSTER-RUM": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "DRESS-DOWN-PANTS": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-160.glb",
+      "4-240.glb"
+    ],
+    "DRESS-HEADDRESS-HAT": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-160.glb",
+      "4-240.glb"
+    ],
+    "DRESS-SHOES-BOOTS": [
+      "1-80.glb",
+      "2-160.glb",
+      "3-320.glb",
+      "3-480.glb"
+    ],
+    "DRESS-TOP-JACKET": [
+      "1-50.glb",
+      "2-100.glb",
+      "3-200.glb",
+      "4-300.glb"
+    ],
+    "PERONAGE-BODY-PIRATE": [
+      "1-100.glb",
+      "2-150.glb",
+      "3-200.glb",
+      "4-300.glb"
+    ],
+    "SPUTNIK-SPUTNIK-PARROT": [
+      "1-65.glb",
+      "2-110.glb",
+      "3-175.glb",
+      "4-220.glb"
+    ],
+    "STARTER_DRESS-DOWN-PANTS": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-SHOES-BOOTS": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-TOP-SHIRT": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "WEAPON-BELT-PISTOL": [
+      "1-35.glb",
+      "2-70.glb",
+      "3-105.glb",
+      "4-140.glb"
+    ],
+    "WEAPON-RIGHT_HAND-AXE": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-120.glb",
+      "4-160.glb"
+    ],
+    "WEAPON-RIGHT_HAND-BROADSWORD": [
+      "1-55.glb",
+      "2-110.glb",
+      "3-165.glb",
+      "4-275.glb"
+    ],
+    "WEAPON-RIGHT_HAND-SABER": [
+      "1-55.glb",
+      "2-110.glb",
+      "3-165.glb",
+      "4-275.glb"
+    ]
+  },
+  "SAMURAI": {
+    "ACCESSORIES-FACE-MASKA": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "ACCESSORIES-HAIR-BAND": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-LEFT_HAND-BRACELET": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-NECK-AMULET": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "BOOSTER-ITEMS-LOTOS": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "DRESS-DOWN-PANTS": [
+      "1-55.glb",
+      "2-110.glb",
+      "3-220.glb",
+      "4-330.glb"
+    ],
+    "DRESS-HEADDRESS-CAP": [
+      "1-55.glb",
+      "2-110.glb",
+      "3-220.glb",
+      "4-330.glb"
+    ],
+    "DRESS-SHOES-SANDALS": [
+      "1-60.glb",
+      "2-120.glb",
+      "3-240.glb",
+      "4-360.glb"
+    ],
+    "DRESS-TOP-ARMOR": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-160.glb",
+      "4-240.glb"
+    ],
+    "PERSONAGE-BODY-SAMURAI": [
+      "1-100.glb",
+      "2-150.glb",
+      "3-200.glb",
+      "4-300.glb"
+    ],
+    "SPUTNIK-SPUTNIK-PANDA": [
+      "1-95.glb",
+      "2-160.glb",
+      "3-250.glb",
+      "4-320.glb"
+    ],
+    "STARTER_DRESS-DOWN-PANTS": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-SHOES-BANDAGES": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-TOP-KIMONO": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "WEAPON-LEFT_HAND-KATANA": [
+      "1-55.glb",
+      "2-110.glb",
+      "3-165.glb",
+      "4-275.glb"
+    ],
+    "WEAPON-LEFT_HAND-SAI": [
+      "1-35.glb",
+      "2-70.glb",
+      "3-105.glb",
+      "4-140.glb"
+    ],
+    "WEAPON-LEFT_HAND-SICKLE": [
+      "1-60.glb",
+      "2-120.glb",
+      "3-180.glb",
+      "4-240.glb"
+    ],
+    "WEAPON-RIGHT_HAND-NUNCHAKU": [
+      "1-45.glb",
+      "2-90.glb",
+      "3-135.glb",
+      "4-180.glb"
+    ],
+    "WEAPON-RIGHT_HANDS-SHORT_SWORD": [
+      "1-40.glb",
+      "2-80.glb",
+      "3-120.glb",
+      "4-200.glb"
+    ]
+  },
+  "VIKING": {
+    "ACCESSORIES-CHEST-CLASP": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "ACCESSORIES-FOREARM-BRACERS": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "ACCESSORIES-LEFT_HAND-BRACELET": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-LEFT_HAND-RING": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-NECK-PENDANT": [
+      "1-5.glb",
+      "2-15.glb",
+      "3-45.glb",
+      "4-135.glb"
+    ],
+    "ACCESSORIES-OVER-TOP-ARMOR": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "ACCESSORIES-OVER_ARMOR-MANTLE": [
+      "1-15.glb",
+      "2-30.glb",
+      "3-60.glb",
+      "4-90.glb"
+    ],
+    "ACCESSORIES-OVER_DOWN-SKIRT": [
+      "1-10.glb",
+      "2-30.glb",
+      "3-90.glb",
+      "4-270.glb"
+    ],
+    "BOOSTER-ITEMS-RUNE": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "DRESS-DOWN-PANTS": [
+      "1-15.glb",
+      "2-30.glb",
+      "3-60.glb",
+      "4-90.glb"
+    ],
+    "DRESS-HEADDRESS-HELMET": [
+      "1-15.glb",
+      "2-30.glb",
+      "3-60.glb",
+      "4-90.glb"
+    ],
+    "DRESS-SHOES-BOOTS": [
+      "1-20.glb",
+      "2-40.glb",
+      "3-80.glb",
+      "4-120.glb"
+    ],
+    "DRESS-TOP-SHIRT": [
+      "1-10.glb",
+      "2-20.glb",
+      "3-40.glb",
+      "4-60.glb"
+    ],
+    "PERSONAGE-BODY-VIKING": [
+      "1-100.glb",
+      "2-150.glb",
+      "3-200.glb",
+      "4-300.glb"
+    ],
+    "SPUTNIK-SPUTNIK-WOLF": [
+      "1-150.glb",
+      "2-250.glb",
+      "3-400.glb",
+      "4-500.glb"
+    ],
+    "STARTER_DRESS-DOWN-PANTS": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-SHOES-BOOTS": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "STARTER_DRESS-TOP-SHIRT": [
+      "1-0.glb",
+      "2-0.glb",
+      "3-0.glb",
+      "4-0.glb"
+    ],
+    "WEAPON-BACK-BIG_SWORD": [
+      "1-65.glb",
+      "2-130.glb",
+      "3-195.glb",
+      "4-325.glb"
+    ],
+    "WEAPON-RIGHT_HAND-AXE": [
+      "1-65.glb",
+      "2-130.glb",
+      "3-195.glb",
+      "4-325.glb"
+    ],
+    "WEAPON-RIGHT_HAND-SWORD": [
+      "1-65.glb",
+      "2-130.glb",
+      "3-195.glb",
+      "4-325.glb"
+    ],
+    "WEAPON-RIGH_HAND-KNIFE": [
+      "1-35.glb",
+      "2-70.glb",
+      "3-105.glb",
+      "4-140.glb"
+    ]
+  }
+}
